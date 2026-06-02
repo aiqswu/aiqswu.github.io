@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor *(pending formal appointment)* at the School of Computer Science and Artificial Intelligence, Zhengzhou University. I am also a member of the Intelligent Cluster System Engineering Research Center of the Ministry of Education, advised by Prof. [<span style="color:rgb(34,75,141);">Mingliang Xu</span>](https://www7.zzu.edu.cn/csai/info/1234/2497.htm). In 2024, I was supported by the *China Association for Science and Technology Young Talent Support Program for Doctoral Students*. I will receive my Ph.D. degree in Software Engineering from Zhengzhou University in 2026, under the supervision of Academician [<span style="color:rgb(34,75,141);">Guoliang Chen</span>](https://casad.cas.cn/ysxx2022/ysmd/xxjs/200906/t20090624_1807834.html) and Prof. [<span style="color:rgb(34,75,141);">Yafei Li</span>](https://www7.zzu.edu.cn/csai/info/1234/3327.htm). 
+I am an associate professor *(initial appointment)* at the School of Computer Science and Artificial Intelligence, Zhengzhou University. I am also a member of the Intelligent Cluster System Engineering Research Center of the Ministry of Education, advised by Prof. [<span style="color:rgb(34,75,141);">Mingliang Xu</span>](https://www7.zzu.edu.cn/csai/info/1234/2497.htm). In 2024, I was supported by the *China Association for Science and Technology Young Talent Support Program for Doctoral Students*. I received my Ph.D. degree in Software Engineering from Zhengzhou University in 2026, under the supervision of Academician [<span style="color:rgb(34,75,141);">Guoliang Chen</span>](https://casad.cas.cn/ysxx2022/ysmd/xxjs/200906/t20090624_1807834.html) and Prof. [<span style="color:rgb(34,75,141);">Yafei Li</span>](https://www7.zzu.edu.cn/csai/info/1234/3327.htm). 
 I have published more than 10 research papers in top-tier international journals/conferences, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*. I also serve as a reviewer for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
 
 ## **Research Interests**
@@ -86,6 +86,7 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
 
 # **Invited Talks** {#talks}
 
+- *High-Fidelity Task Assignment in Spatial Crowdsourcing via Implicit Human Feedback*, ICDE 2026, Montreal, Canada 
 - *HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing*, IJCAI 2025, Montreal, Canada  
 - *AMRAS: A Visual Analysis System for Spatial Crowdsourcing*, VLDB 2022, Sydney, Australia  
 - *PRID: An Efficient Pub/Sub Ride Hitching System*, CIKM 2022, Atlanta, USA  
