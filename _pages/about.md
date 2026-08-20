@@ -25,10 +25,9 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
 # **Selected Publications** {#publications}
 *( *: equal contribution, #: corresponding author)*
 ## **Journal papers**
- <span style="color:blue;"><strong>[TMC'26]</strong></span> Fairness-Aware Task Matching in Cross-Service Spatial Crowdsourcing.   
-  **Qingshun Wu**, Di Zhang, Lianjie Cha, Lulu Li, Hongyan Gu, Yafei Li.  
-  *IEEE Transactions on Mobile Computing*, 2026. <span style="color:red;"><strong>(CCF-A)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://ieeexplore.ieee.org/document/11599660) 
-  
+ <span style="color:blue;"><strong>[TMC'26]</strong></span> Fairness-Aware Task Matching in Cross-Service Spatial Crowdsourcing.  
+ **Qingshun Wu**, Di Zhang, Lianjie Cha, Lulu Li, Hongyan Gu, Yafei Li.  
+ *IEEE Transactions on Mobile Computing*, 2026. <span style="color:red;"><strong>(CCF-A)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://ieeexplore.ieee.org/document/11599660)  
  <span style="color:blue;"><strong>[TMC'25]</strong></span> Adaptive Task Assignment in Spatial Crowdsourcing: A Human-in-the-Loop Approach.  
   **Qingshun Wu**, Yafei Li, Jinxing Yan, Mei Zhang, Jianliang Xu, Mingling Xu.  
   *IEEE Transactions on Mobile Computing*, 2025. <span style="color:red;"><strong>(CCF-A)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://ieeexplore.ieee.org/document/10756805)  
