@@ -47,7 +47,7 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
 
 ## **Conference papers**
  <span style="color:blue;"><strong>[ICDE'26]</strong></span> High-Fidelity Task Assignment in Spatial Crowdsourcing via Implicit Human Feedback.  
-  **Qingshun Wu**, Yafei Li, Jinxing Yan, Yuanyuan Jin, Hua Wang, Mingliang Xu.  
+  **Qingshun Wu**, Yafei Li, Lei Gao, Guanglei Zhu, Lei Chen, Mingliang Xu.  
   *IEEE International Conference on Data Engineering*, 2026.   <span style="color:red;"><strong>(CCF-A)</strong></span> [<span style="color:rgb(34,75,141);">[Paper]</span>](https://ieeexplore.ieee.org/document/11629283)  
  <span style="color:blue;"><strong>[IJCAI'25]</strong></span> HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing with Human-Guided Language Models.  
   **Qingshun Wu**, Yafei Li, Lulu Li, Yuanyuan Jin, Shuo He, Mingliang Xu.  
