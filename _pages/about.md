@@ -25,6 +25,12 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
 # **Selected Publications** {#publications}
 *( *: equal contribution, #: corresponding author)*
 ## **Journal papers**
+ <span style="color:blue;"><strong>[TKDE'26]</strong></span> Learning to Transfer: Towards Sim-to-Real Spatial Task Assignment via Travel Time Alignment.  
+ **Qingshun Wu**, Yafei Li, Shuo He, Hongyan Gu, Lei Chen, Mingliang Xu.  
+ *IEEE Transactions on Knowledge and Data Engineering*, 2026. <span style="color:red;"><strong>(CCF-A)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](#)  
+ <span style="color:blue;"><strong>[TMC'26]</strong></span> Efficient Task Assignment in Dependency-Cooperative Spatial Crowdsourcing.  
+ Linshen Luan, Wei Chen, Ran Feng, **Qingshun Wu**, Yafei Li, Mingliang Xu.  
+ *IEEE Transactions on Mobile Computing*, 2026. <span style="color:red;"><strong>(CCF-A)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://ieeexplore.ieee.org/document/11599660)  
  <span style="color:blue;"><strong>[TMC'26]</strong></span> Fairness-Aware Task Matching in Cross-Service Spatial Crowdsourcing.  
  **Qingshun Wu**, Di Zhang, Lianjie Cha, Lulu Li, Hongyan Gu, Yafei Li.  
  *IEEE Transactions on Mobile Computing*, 2026. <span style="color:red;"><strong>(CCF-A)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://ieeexplore.ieee.org/document/11599660)  
@@ -77,13 +83,13 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
 
 # **Academic Services** {#services}
 
- 2025, Reviewer, *Annual AAAI Conference on Artificial Intelligence (AAAI)*  
+ 2025-2026, Reviewer, *Annual AAAI Conference on Artificial Intelligence (AAAI)*  
  2024, Reviewer, *International Joint Conference on Artificial Intelligence (IJCAI)*  
  2024, Reviewer, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*  
- 2023–2025, Reviewer, *IEEE Transactions on Mobile Computing (TMC)*  
- 2023–2025, Reviewer, *IEEE International Conference on Data Engineering (ICDE)*  
+ 2023–2026, Reviewer, *IEEE Transactions on Mobile Computing (TMC)*  
+ 2023–2026, Reviewer, *IEEE International Conference on Data Engineering (ICDE)*  
  2023, Reviewer, *ACM International Conference on Information and Knowledge Management (CIKM)*  
- 2022–2025, Reviewer, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*  
+ 2022–2026, Reviewer, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*  
 
 ---
 
