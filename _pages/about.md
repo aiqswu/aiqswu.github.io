@@ -27,7 +27,7 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
 ## **Journal papers**
  <span style="color:blue;"><strong>[TKDE'26]</strong></span> Learning to Transfer: Towards Sim-to-Real Spatial Task Assignment via Travel Time Alignment.  
  **Qingshun Wu**, Yafei Li, Shuo He, Hongyan Gu, Lei Chen, Mingliang Xu.  
- *IEEE Transactions on Knowledge and Data Engineering*, 2026. <span style="color:red;"><strong>(CCF-A)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](#)  
+ *IEEE Transactions on Knowledge and Data Engineering*, 2026. <span style="color:red;"><strong>(CCF-A)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://ieeexplore.ieee.org/document/11721476)  
  <span style="color:blue;"><strong>[TMC'26]</strong></span> Efficient Task Assignment in Dependency-Cooperative Spatial Crowdsourcing.  
  Linshen Luan, Wei Chen, Ran Feng, **Qingshun Wu**, Yafei Li, Mingliang Xu.  
  *IEEE Transactions on Mobile Computing*, 2026. <span style="color:red;"><strong>(CCF-A)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://ieeexplore.ieee.org/document/11599660)  
